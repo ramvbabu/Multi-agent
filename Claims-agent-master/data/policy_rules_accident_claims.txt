@@ -1,0 +1,658 @@
+================================================================================
+           NOVA SHIELD INSURANCE — ACCIDENT CLAIM POLICY RULES
+                      Policy Document Reference: NS-AC-2024-v3.1
+                   Effective Date: January 1, 2024 | Version: 3.1
+================================================================================
+
+IMPORTANT NOTICE: This document is the authoritative reference for all accident
+claim adjudication. All decisions made by automated claim processing systems,
+human adjusters, and third-party agents must conform to the rules herein.
+Any deviation requires written approval from the Claims Review Authority (CRA).
+
+--------------------------------------------------------------------------------
+SECTION 1 — DEFINITIONS
+--------------------------------------------------------------------------------
+
+For the purpose of this document, the following terms are defined as follows:
+
+  Policyholder       : The individual named in the insurance contract.
+  Insured Party      : Policyholder and any dependents covered under the plan.
+  Accident           : A sudden, unforeseeable event causing bodily injury or
+                       property damage, not resulting from intentional acts.
+  Claimant           : The insured party filing the claim.
+  Deductible         : The fixed amount the claimant pays before coverage applies.
+  Coverage Limit     : The maximum amount payable by Nova Shield for a claim.
+  Waiting Period     : Minimum policy tenure before a claim type becomes eligible.
+  Co-payment (Co-pay): Percentage of approved claim amount borne by the claimant.
+  Adjuster           : Licensed Nova Shield representative who evaluates claims.
+  FIR                : First Information Report filed with law enforcement.
+  IDV                : Insured Declared Value — the market value of the vehicle.
+  Pre-authorization  : Approval obtained from Nova Shield before incurring expense.
+
+--------------------------------------------------------------------------------
+SECTION 2 — GENERAL CLAIM ELIGIBILITY CONDITIONS
+--------------------------------------------------------------------------------
+
+A claim will be considered valid and processed only when ALL of the following
+general conditions are satisfied:
+
+  GC-01  The policy must be active and premium payments current at the time of
+         the accident. Lapsed policies are ineligible for any claim.
+
+  GC-02  The accident must be reported to Nova Shield within 48 hours of
+         occurrence via the designated claims hotline (1800-NOVA-CLM) or the
+         Nova Shield mobile application.
+
+  GC-03  For accidents involving motor vehicles, a copy of the FIR or Motor
+         Accident Report (MAR) filed with local police must be submitted within
+         7 calendar days.
+
+  GC-04  The claimant must not be under the influence of alcohol or controlled
+         substances at the time of the accident. Toxicology reports may be
+         requested by the adjuster.
+
+  GC-05  The policy must have been active for a minimum of 30 days (waiting
+         period) before any claim is eligible, unless the accident occurs during
+         initial travel covered by the policy start date.
+
+  GC-06  Fraudulent claims, misrepresentation of facts, or suppression of
+         material information will result in immediate claim rejection and
+         possible legal action.
+
+  GC-07  The claimant must cooperate fully with the assigned adjuster, including
+         providing access to medical records, repair estimates, and any other
+         documentation deemed necessary.
+
+  GC-08  Claims must be fully submitted (all documentation) within 30 calendar
+         days of the accident. Late submissions require written justification
+         and are subject to CRA approval.
+
+--------------------------------------------------------------------------------
+SECTION 3 — COVERED ACCIDENT SCENARIOS AND CLAIM LIMITS
+--------------------------------------------------------------------------------
+
+The following scenarios are covered under this policy. Each scenario includes
+eligibility conditions specific to that type, the applicable coverage limit,
+and any scenario-level deductions or co-payments.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.1  MOTOR VEHICLE ACCIDENT — COLLISION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Physical collision between the insured vehicle and another vehicle, object,
+  or infrastructure resulting in damage to the insured vehicle.
+
+Eligibility Conditions:
+  - Valid driver's license held by the driver at the time of accident.
+  - Vehicle must have a valid road tax and Pollution Under Control (PUC) cert.
+  - Incident must occur on a public road or recognized private property.
+  - Damage must be verified by a Nova Shield empanelled surveyor.
+
+Coverage Limit:
+  - Own Damage (OD)  : Up to 100% of IDV, subject to depreciation schedule.
+  - Third-Party (TP) : Up to INR 7,50,000 for property damage per incident.
+  - Total Loss       : IDV minus salvage value if repair cost > 75% of IDV.
+
+Sub-Limits:
+  - Towing charges   : Up to INR 1,500 per incident (within city limits).
+  - Towing (highway) : Up to INR 2,500 per incident.
+  - Emergency hotel  : Up to INR 3,000 per night, maximum 2 nights if vehicle
+                       is immobilized over 100 km from insured's home address.
+
+Scenario-Level Deductions:
+  - Compulsory deductible : INR 1,000 for private vehicles; INR 2,000 for
+                            commercial vehicles.
+  - Depreciation on parts : As per Depreciation Schedule (see Section 5).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.2  MOTOR VEHICLE ACCIDENT — THEFT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Theft or attempted theft of the insured vehicle or parts thereof.
+
+Eligibility Conditions:
+  - FIR must be filed within 24 hours of discovering the theft.
+  - Non-Traceable Certificate (NTC) from police required for total theft claims.
+  - All sets of keys must be surrendered to Nova Shield upon settlement.
+  - Vehicle must not have been left unlocked or with keys in the ignition.
+
+Coverage Limit:
+  - Total Theft       : Up to 100% of IDV at the time of theft.
+  - Partial Theft     : Cost of stolen parts up to INR 50,000 per incident.
+
+Waiting Period for Settlement:
+  - Minimum 90 days from FIR date before total theft claim is settled, pending
+    NTC issuance by police.
+
+Exclusions Specific to Theft:
+  - Theft by family members, employees, or persons in possession with consent.
+  - Theft during illegal use of the vehicle.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.3  PERSONAL ACCIDENT — ACCIDENTAL DEATH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Death of the policyholder caused directly and solely by an accidental injury
+  sustained during the policy period.
+
+Eligibility Conditions:
+  - Death must occur within 365 days of the accident that caused the injury.
+  - Death certificate and post-mortem report must be submitted.
+  - Claimant must be the registered nominee or legal heir.
+  - Accident must not be a result of pre-existing medical conditions triggering
+    a fatal event (e.g., cardiac arrest while driving due to heart disease).
+
+Coverage Limit:
+  - Sum Insured       : As declared in policy schedule (typically INR 10,00,000
+                        to INR 50,00,000 based on chosen plan tier).
+  - Funeral expenses  : Up to INR 10,000 (included within Sum Insured).
+
+Benefit Payout:
+  - 100% of Sum Insured to nominated beneficiary.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.4  PERSONAL ACCIDENT — PERMANENT TOTAL DISABILITY (PTD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Permanent and total incapacity to engage in any occupation due to accident.
+
+PTD Qualifying Conditions (any one):
+  - Loss of both eyes.
+  - Loss of two limbs (hands or feet).
+  - Loss of one eye and one limb.
+  - Paralysis of both lower limbs (paraplegia) certified by a specialist.
+  - Permanent cognitive impairment certified by a neurologist.
+
+Eligibility Conditions:
+  - Disability must be certified by two independent medical specialists.
+  - Disability must persist continuously for at least 12 months post-accident.
+  - Claimant must not have returned to gainful employment.
+
+Coverage Limit:
+  - 100% of Sum Insured.
+  - Additional rehabilitation allowance : Up to INR 1,00,000 (once, optional
+    add-on; must have been selected at policy inception).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.5  PERSONAL ACCIDENT — PERMANENT PARTIAL DISABILITY (PPD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Permanent loss of use of a specific limb or organ due to accident.
+
+Coverage Limit (% of Sum Insured):
+  Injury Type                            | Payout %
+  ─────────────────────────────────────────────────
+  Loss of one arm at shoulder            | 70%
+  Loss of one arm between elbow-shoulder | 65%
+  Loss of one arm below elbow            | 60%
+  Loss of one hand at wrist              | 55%
+  Loss of one leg above knee             | 70%
+  Loss of one leg at/below knee          | 50%
+  Loss of one eye (complete, permanent)  | 50%
+  Loss of hearing (both ears)            | 75%
+  Loss of hearing (one ear)              | 30%
+  Loss of speech                         | 50%
+  Loss of thumb                          | 25%
+  Loss of index finger                   | 20%
+  Loss of any other finger               | 10%
+  Loss of toe (big)                      | 5%
+  Loss of any other toe                  | 2%
+  ─────────────────────────────────────────────────
+  Maximum aggregate PPD payout per policy period : 100% of Sum Insured.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.6  ACCIDENTAL MEDICAL HOSPITALIZATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Hospitalization for treatment of injuries sustained in a covered accident,
+  requiring minimum 24-hour in-patient admission.
+
+Eligibility Conditions:
+  - Hospital must be a Nova Shield empanelled network hospital for cashless.
+  - Non-network hospital claims are reimbursement-based only.
+  - Pre-authorization required for planned admissions arising from accident.
+  - Emergency admissions: pre-authorization within 24 hours of admission.
+  - Minimum hospitalization: 24 consecutive hours.
+
+Coverage Limits:
+  Category                              | Network (Cashless) | Non-Network (Reimbursement)
+  ─────────────────────────────────────────────────────────────────────────────────────────
+  Room rent (per day)                   | Up to INR 5,000    | Up to INR 4,000
+  ICU charges (per day)                 | Up to INR 10,000   | Up to INR 8,000
+  Surgical procedure                    | Up to INR 3,00,000 | Up to INR 2,50,000
+  Anaesthesiologist fees                | Up to 25% of surgery limit
+  Attending physician (per visit)       | Up to INR 1,500    | Up to INR 1,200
+  Diagnostic tests (per admission)      | Up to INR 25,000   | Up to INR 20,000
+  Pharmacy (per admission)              | Up to INR 20,000   | Up to INR 15,000
+  Blood transfusion                     | Actuals, up to INR 10,000
+  Ambulance (per incident)              | Up to INR 2,000    | Up to INR 1,500
+  Post-discharge physiotherapy          | Up to INR 15,000 over 60 days
+  ─────────────────────────────────────────────────────────────────────────────────────────
+  Overall per-hospitalization limit     : Up to INR 5,00,000
+  Annual aggregate limit                : Up to INR 10,00,000
+
+Sub-Limits — Day-Care Procedures:
+  - Approved day-care procedures (no overnight stay) covered up to INR 50,000
+    per procedure. List of approved day-care procedures available in Annexure A.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.7  ACCIDENTAL OUTPATIENT TREATMENT (OPD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Treatment received for accident-related injuries not requiring hospitalization.
+
+Eligibility Conditions:
+  - OPD coverage is available only under Gold and Platinum plan tiers.
+  - Treatment must occur within 7 days of the accident.
+  - Receipts and prescription from a registered medical practitioner required.
+
+Coverage Limits:
+  - Consultation fees      : Up to INR 500 per visit, max 5 visits per incident.
+  - Medicines / pharmacy   : Up to INR 3,000 per incident.
+  - Diagnostics (X-ray/MRI): Up to INR 5,000 per incident.
+  - Dental injury (accident): Up to INR 10,000 per incident (teeth broken in
+                               accident, not pre-existing dental conditions).
+  - Annual OPD aggregate   : Up to INR 25,000.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.8  ACCIDENTAL PROPERTY DAMAGE (NON-VEHICLE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Damage to insured's own property or third-party property caused by an
+  accident in which the insured party is at fault or is the affected party.
+
+Coverage Limits:
+  - Own property damage     : Up to INR 2,00,000 per incident.
+  - Third-party property    : Up to INR 5,00,000 per incident.
+  - Personal electronics    : Up to INR 30,000 per incident (laptop, phone
+                               damaged in accident; receipts required).
+  - Annual aggregate        : Up to INR 7,50,000.
+
+Eligibility Conditions:
+  - Damage must be sudden and accidental; wear and tear excluded.
+  - Third-party claims must be supported by a liability acknowledgment or
+    court order.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.9  ACCIDENTAL DEATH DUE TO NATURAL DISASTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Death or bodily injury caused directly by a declared natural disaster
+  (flood, earthquake, landslide, cyclone) while the insured was in an
+  affected zone for legitimate purposes.
+
+Eligibility Conditions:
+  - Government or NDMA must have officially declared the event a natural
+    disaster for the affected region.
+  - Insured must not have been in the disaster zone in violation of a government
+    evacuation order.
+  - Claim must be supported by a government-issued victim record or hospital
+    admission record from the disaster zone.
+
+Coverage Limits:
+  - Accidental death        : 100% of Sum Insured (same as Section 3.3).
+  - Hospitalization          : As per Section 3.6.
+  - Property damage          : Up to INR 1,00,000 (emergency shelter, personal
+                               belongings lost; receipts not required up to
+                               INR 25,000 for documented disaster victims).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.10  WORKPLACE ACCIDENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Description:
+  Accidents occurring during the course of employment or at the registered
+  workplace premises, covered under the personal accident add-on.
+
+Eligibility Conditions:
+  - Workplace accident add-on must have been selected at policy inception.
+  - Employer's incident report must be submitted within 48 hours.
+  - Claim must not overlap with a separately settled Workers' Compensation
+    claim for the same incident.
+
+Coverage Limits:
+  - Hospitalization          : As per Section 3.6.
+  - PTD / PPD                : As per Sections 3.4 and 3.5.
+  - Temporary Total Disability: INR 3,000 per day, up to 60 days per incident.
+  - Weekly benefit cap       : INR 21,000.
+  - Annual aggregate (TTD)   : INR 1,80,000.
+
+--------------------------------------------------------------------------------
+SECTION 4 — STANDARD DEDUCTIONS APPLICABLE TO ALL CLAIMS
+--------------------------------------------------------------------------------
+
+The following deductions apply uniformly across all claim types unless
+explicitly stated otherwise in the scenario-specific rules in Section 3.
+
+─────────────────────────────────────────────────────────────────────
+4.1  COMPULSORY DEDUCTIBLE (CD)
+─────────────────────────────────────────────────────────────────────
+
+The compulsory deductible is a fixed first-loss borne by the claimant,
+subtracted before any claim benefit is computed.
+
+  Plan Tier     | Medical Claims CD | Vehicle Claims CD | Property Claims CD
+  ─────────────────────────────────────────────────────────────────────────
+  Silver         | INR 2,000         | INR 1,000          | INR 1,500
+  Gold           | INR 1,500         | INR 1,000          | INR 1,000
+  Platinum       | INR 1,000         | INR 500            | INR 500
+  Commercial     | INR 2,500         | INR 2,000          | INR 2,000
+  ─────────────────────────────────────────────────────────────────────────
+
+Note: Compulsory deductible is non-negotiable and cannot be waived.
+
+─────────────────────────────────────────────────────────────────────
+4.2  VOLUNTARY DEDUCTIBLE (VD)
+─────────────────────────────────────────────────────────────────────
+
+Policyholders who opted for a voluntary deductible at policy inception
+receive a premium discount. The VD amount is deducted in addition to the
+compulsory deductible.
+
+  VD Chosen at Inception | Premium Discount | VD Applied Per Claim
+  ─────────────────────────────────────────────────────────────────
+  INR 2,000               | 5%               | INR 2,000
+  INR 5,000               | 10%              | INR 5,000
+  INR 10,000              | 15%              | INR 10,000
+  INR 15,000              | 20%              | INR 15,000
+  ─────────────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────────────────
+4.3  CO-PAYMENT (CO-PAY)
+─────────────────────────────────────────────────────────────────────
+
+Co-payment is a percentage of the approved claim amount borne by the
+claimant after deductibles are applied. Co-pay percentages by plan tier:
+
+  Plan Tier     | Network Hospital | Non-Network Hospital | OPD
+  ─────────────────────────────────────────────────────────────
+  Silver         | 10%              | 20%                  | 20%
+  Gold           | 5%               | 15%                  | 10%
+  Platinum       | 0%               | 10%                  | 5%
+  ─────────────────────────────────────────────────────────────
+
+Co-pay is not applicable on Personal Accident lump-sum benefits
+(Accidental Death, PTD, PPD).
+
+─────────────────────────────────────────────────────────────────────
+4.4  DEPRECIATION DEDUCTIONS (VEHICLE CLAIMS)
+─────────────────────────────────────────────────────────────────────
+
+For motor vehicle claims, depreciation is applied to replaced parts
+based on the vehicle's age. Labour charges are not subject to depreciation.
+
+  Vehicle Age           | Depreciation Rate
+  ──────────────────────────────────────────
+  Less than 6 months    | 0%
+  6 months to 1 year    | 5%
+  1 year to 2 years     | 10%
+  2 years to 3 years    | 15%
+  3 years to 4 years    | 25%
+  4 years to 5 years    | 35%
+  5 years to 10 years   | 40%
+  Over 10 years         | 50%
+  ──────────────────────────────────────────
+
+Additional depreciation rates for specific components (regardless of age):
+  - Tyres, tubes, batteries : 50%
+  - Plastic / fibre parts   : 30%
+  - Nylon / rubber parts    : 50%
+  - Glass / windshield      : 0% (no depreciation)
+
+─────────────────────────────────────────────────────────────────────
+4.5  NON-MEDICAL EXPENSES (NME) DEDUCTIONS
+─────────────────────────────────────────────────────────────────────
+
+The following charges are excluded from hospitalization claim calculations
+as they are considered non-medical in nature:
+
+  - Registration / administrative fees     : Excluded in full
+  - Telephone / internet charges           : Excluded in full
+  - Guest meals / attendant meals          : Excluded in full
+  - Laundry charges                        : Excluded in full
+  - Personal comfort items (TV, newspaper) : Excluded in full
+  - Cosmetic / grooming products           : Excluded in full
+  - Over-the-counter vitamins (non-Rx)     : Excluded in full
+
+─────────────────────────────────────────────────────────────────────
+4.6  WAITING PERIOD DEDUCTIONS / INELIGIBILITY
+─────────────────────────────────────────────────────────────────────
+
+  - Claims filed within 30 days of policy inception: Not payable (GC-05).
+  - Pre-existing condition-linked events: Not payable (see Section 6).
+  - Specific illness waiting periods do not apply to pure accident claims.
+
+─────────────────────────────────────────────────────────────────────
+4.7  LATE REPORTING PENALTY
+─────────────────────────────────────────────────────────────────────
+
+Claims reported after the mandatory 48-hour window but before 7 days:
+  - 10% reduction of approved claim amount.
+
+Claims reported after 7 days but before 30 days (with valid justification):
+  - 25% reduction of approved claim amount.
+  - Approval by CRA required.
+
+Claims reported after 30 days: Not payable without exceptional CRA waiver.
+
+─────────────────────────────────────────────────────────────────────
+4.8  FRAUD AND MISREPRESENTATION DEDUCTIONS
+─────────────────────────────────────────────────────────────────────
+
+If material misrepresentation is found post-settlement:
+  - Full claim amount to be recovered with 12% annual interest.
+  - Policy may be cancelled without refund of premium.
+  - Claimant may be referred to the Insurance Fraud Investigation Bureau.
+
+--------------------------------------------------------------------------------
+SECTION 5 — CLAIM COMPUTATION EXAMPLE
+--------------------------------------------------------------------------------
+
+EXAMPLE: Motor Vehicle Collision Claim (Gold Plan, 3-year-old vehicle)
+
+  Repair Estimate (approved by surveyor)   : INR 45,000
+  Less: Depreciation on parts (25%)        : INR 8,000  (on parts worth INR 32,000)
+  Labour charges (no depreciation)         : INR 13,000 (included in estimate above)
+  ─────────────────────────────────────────────────────
+  Post-depreciation amount                 : INR 37,000
+  Less: Compulsory Deductible (Gold)       : INR 1,000
+  Less: Voluntary Deductible (if INR 5,000): INR 5,000
+  ─────────────────────────────────────────────────────
+  Net Payable by Nova Shield               : INR 31,000
+
+EXAMPLE: Hospitalization Claim (Silver Plan, Network Hospital)
+
+  Approved hospital bill                   : INR 80,000
+  Less: Non-medical expenses               : INR 2,000
+  Less: Compulsory Deductible              : INR 2,000
+  ─────────────────────────────────────────────────────
+  Sub-total                                : INR 76,000
+  Less: Co-pay 10% (Silver, Network)       : INR 7,600
+  ─────────────────────────────────────────────────────
+  Net Payable by Nova Shield               : INR 68,400
+
+--------------------------------------------------------------------------------
+SECTION 6 — EXCLUSIONS
+--------------------------------------------------------------------------------
+
+The following events and conditions are EXCLUDED from coverage. Claims arising
+in whole or in part from these causes will be rejected:
+
+  EX-01  Intentional self-inflicted injury or suicide attempt.
+  EX-02  Injuries sustained while committing a criminal offense.
+  EX-03  Accidents while under influence of alcohol (BAC > 0.03%) or drugs.
+  EX-04  War, terrorism, nuclear/biological/chemical events.
+  EX-05  Participation in motor racing, stunts, or extreme sports unless
+         Adventure Sports Add-on was purchased.
+  EX-06  Pre-existing physical conditions that directly caused the accident
+         (e.g., epileptic seizure while driving causing a collision).
+  EX-07  Mental health disorders as the primary cause of injury.
+  EX-08  Accidents during aviation (other than as a ticketed commercial passenger).
+  EX-09  Injuries sustained outside the policy's territorial limits (India,
+         unless International Travel Add-on is active).
+  EX-10  Damage or injury caused by gradual wear, mechanical breakdown, or
+         structural defect not triggered by a sudden accidental event.
+  EX-11  Cosmetic treatment or elective surgery arising post-accident (only
+         medically necessary reconstructive procedures are covered).
+  EX-12  Experimental treatments or procedures not approved by MCI / ICMR.
+  EX-13  HIV/AIDS-related treatment unless injury was caused by accidental
+         contamination (e.g., needle-stick injury to a healthcare worker).
+
+--------------------------------------------------------------------------------
+SECTION 7 — CLAIM FILING PROCESS
+--------------------------------------------------------------------------------
+
+STEP 1 — NOTIFICATION
+  Contact: 1800-NOVA-CLM (toll-free, 24x7) or nova-claims@novashield.in
+  Timeline: Within 48 hours of accident.
+  Provide: Policy number, claimant name, date/time/location of accident,
+           brief description, nature of injury or damage.
+
+STEP 2 — CLAIM REGISTRATION
+  A Claim Reference Number (CRN) will be issued within 2 hours of notification.
+  Retain the CRN for all subsequent communication.
+
+STEP 3 — DOCUMENT SUBMISSION
+  Submit within 30 days of accident via:
+  - Nova Shield mobile app (photo upload)
+  - Email: claims-docs@novashield.in (with CRN in subject)
+  - Physical submission at nearest Nova Shield branch
+
+  Standard documents (all claims):
+  - Duly filled Claim Form NS-CF-01
+  - Government-issued photo ID of claimant
+  - Copy of insurance policy schedule
+  - FIR / MAR (if accident involves vehicles or public space)
+
+  Additional documents by claim type:
+  - Medical claims   : Hospital bills, discharge summary, prescriptions,
+                       diagnostic reports, treating doctor's certificate.
+  - Vehicle claims   : RC book, driving license, repair estimate from
+                       authorised workshop, surveyor report.
+  - Death claims     : Death certificate, post-mortem report, nominee ID.
+  - Disability claims: Disability certificate from two specialists,
+                       employer's loss-of-income certificate.
+
+STEP 4 — ASSESSMENT
+  - Adjuster assigned within 24 hours of document submission.
+  - Surveyor visit (vehicle/property): Within 48 hours of assignment.
+  - Query response turnaround: 5 working days from query date.
+
+STEP 5 — DECISION
+  - Decision timeline: 15 working days from complete document submission.
+  - Cashless claims: Authorization within 4 hours for network hospitals.
+  - Repudiated claims: Written reason provided; claimant may appeal within
+    30 days by writing to: grievances@novashield.in
+
+STEP 6 — SETTLEMENT
+  - NEFT payment to registered bank account within 7 working days of approval.
+  - Cheque issuance (if NEFT unavailable): Within 10 working days.
+
+--------------------------------------------------------------------------------
+SECTION 8 — GRIEVANCE REDRESSAL
+--------------------------------------------------------------------------------
+
+  Level 1  : Adjuster / Relationship Manager (resolution within 3 working days)
+  Level 2  : Claims Review Authority, CRA@novashield.in (7 working days)
+  Level 3  : Insurance Ombudsman (as per IRDAI guidelines)
+  Level 4  : Consumer Forum / Civil Court
+
+  IRDAI Toll-Free Grievance Line: 155255
+
+--------------------------------------------------------------------------------
+SECTION 9 — POLICY RENEWAL AND CONTINUITY BENEFITS
+--------------------------------------------------------------------------------
+
+  - Claims history carries forward in the Bonus/Malus system (see below).
+  - Continuous renewal without a claim entitles the policyholder to a
+    No-Claim Bonus (NCB) discount on the Own Damage premium component.
+
+  No-Claim Bonus Schedule:
+  ─────────────────────────────────────
+  Claim-Free Years | NCB Discount
+  ─────────────────────────────────────
+  1 year           | 20%
+  2 years          | 25%
+  3 years          | 35%
+  4 years          | 45%
+  5+ years         | 50%
+  ─────────────────────────────────────
+
+  NCB is forfeited upon making an Own Damage claim.
+  NCB is transferable to a new policy if switching insurer.
+
+  Malus (Claim Loading):
+  - Making 2 or more OD claims in a policy year: 10% loading on renewal premium.
+  - Making 3 or more OD claims in a policy year: 20% loading on renewal premium.
+
+--------------------------------------------------------------------------------
+SECTION 10 — SPECIAL NOTES FOR AUTOMATED CLAIM PROCESSING SYSTEMS
+--------------------------------------------------------------------------------
+
+This section is intended for claim bots, AI-assisted adjudication systems,
+and integrated claim management platforms using this document as a knowledge base.
+
+  SN-01  Always verify policy status (active/lapsed) before responding to any
+         claim query. Do not proceed if policy is lapsed.
+
+  SN-02  Confirm the accident reporting timestamp against the 48-hour rule
+         before assigning a coverage category. Apply late-reporting penalty
+         rules from Section 4.7 automatically.
+
+  SN-03  Cross-reference the plan tier (Silver / Gold / Platinum / Commercial)
+         to apply the correct deductible and co-pay rates.
+
+  SN-04  For vehicle age-based depreciation, compute vehicle age from the
+         Registration Certificate (RC) date to the accident date.
+
+  SN-05  The claim limit check must use the per-incident limit AND the
+         annual aggregate. Reject overage automatically and inform claimant
+         of residual limit.
+
+  SN-06  Escalate to human adjuster if: (a) claim involves death or PTD,
+         (b) total claim amount exceeds INR 2,00,000, (c) FIR has not been
+         filed within required period, or (d) the claimant disputes a deduction.
+
+  SN-07  Do NOT provide legal advice, fault determination, or criminal
+         liability opinions. Redirect such queries to the legal helpdesk.
+
+  SN-08  For ambiguous scenarios not covered in Sections 3 or 6, default
+         response: "This scenario requires review by a licensed adjuster.
+         Your claim has been escalated. CRN: [assigned number]."
+
+  SN-09  Maintain audit logs of all claim interactions for a minimum of 7 years
+         as per IRDAI data retention guidelines.
+
+  SN-10  This document is version-controlled. Always check the document version
+         header. Reject queries referencing an older policy version.
+
+--------------------------------------------------------------------------------
+DOCUMENT CONTROL
+--------------------------------------------------------------------------------
+
+  Document Title    : Nova Shield Accident Claim Policy Rules v3.1
+  Prepared By       : Nova Shield Policy Standards Committee
+  Approved By       : Chief Underwriting Officer
+  Effective Date    : January 1, 2024
+  Review Date       : December 31, 2024
+  Next Version      : v3.2 (pending IRDAI circular on EV claim norms)
+
+  Change Log:
+  v3.0 (Jan 2023) — Introduced Platinum tier; revised depreciation schedule.
+  v3.1 (Jan 2024) — Added SN-06 escalation thresholds; updated TTD rates;
+                    added natural disaster scenario (Section 3.9).
+
+================================================================================
+                  END OF DOCUMENT — NOVA SHIELD INSURANCE
+          Unauthorized reproduction or distribution is prohibited.
+       © 2024 Nova Shield Insurance Ltd. | IRDAI Reg. No. NS/2006/12345
+================================================================================

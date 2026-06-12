@@ -1,0 +1,19 @@
+.env
+
+#vitrual environment
+.venv/
+.venv
+venv/
+
+#In memory db
+claims_system.db
+
+
+Errorlogs.txt
+
+policy_graph.sqlite*
+
+#Python cache
+__pycache__/
+*.pyc
+*.pyo

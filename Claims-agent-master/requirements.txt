@@ -1,0 +1,25 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-core
+langchain-openai
+langsmith
+langgraph
+langgraph-sdk
+langgraph-prebuilt
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+streamlit
+pydantic
+python-dotenv
+faiss-cpu
+openai
+pypdf
+python-multipart
+pinecone-client
+
+# Optional for production observability
+structlog
+prometheus-client
+
+Langsmith
